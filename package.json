@@ -1,0 +1,21 @@
+{
+  "name": "enigma-childtheme",
+  "version": "1.0.0",
+  "description": "wordpress child theme based off the ENIGMA (free) theme",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wordpress",
+    "gulp",
+    "engima"
+  ],
+  "author": "Sam Deacon",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-sass": "^2.2.0"
+  }
+}
